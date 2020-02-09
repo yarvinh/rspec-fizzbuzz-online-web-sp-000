@@ -3,7 +3,7 @@
 def fizzbuzz(fizz_number)
   if fizz_number == 3
     puts "Fizz"
- "Fizz"
+ return "Fizz"
   end
 end
-fizzbuzz(2)
+fizzbuzz(3)
