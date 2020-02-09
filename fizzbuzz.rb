@@ -7,4 +7,4 @@ def fizzbuzz(int)
     return  "Fizz"
   end
 end
-fizzbuzz(4)
+fizzbuzz(3)
