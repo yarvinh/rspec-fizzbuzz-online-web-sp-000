@@ -6,4 +6,4 @@ def fizzbuzz(fizz_number)
  "Fizz"
   end
 end
-fizzbuzz(3)
+fizzbuzz(2)
