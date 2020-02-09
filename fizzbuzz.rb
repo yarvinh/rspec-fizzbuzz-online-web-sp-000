@@ -6,7 +6,7 @@ def fizzbuzz(int)
     puts "fizz"
     return  "Fizz"
   elsif int % 5 == 0
-    pust "buzz"
+    pusts "buzz"
     "Buzz"
   elsif int % 3 == 0 || int % 5 == 0
     puts "fizzbuzz"
