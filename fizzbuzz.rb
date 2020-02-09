@@ -3,5 +3,6 @@
 def fizzbuzz(fizz_number)
   if fizz_number === 3
     "Fizz"
+  end
 end
 fizzbuzz(3)
