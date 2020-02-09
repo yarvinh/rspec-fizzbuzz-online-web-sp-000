@@ -2,7 +2,6 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(fizz_number)
   if fizz_number
-    puts "Fizz"
  return "Fizz"
   end
 end
