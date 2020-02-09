@@ -3,8 +3,7 @@
 def fizzbuzz(int)
 
   if int % 3 == 0
-    puts "fizz"
     return  "Fizz"
   end
 end
-fizzbuzz(3)
+#fizzbuzz(3)
