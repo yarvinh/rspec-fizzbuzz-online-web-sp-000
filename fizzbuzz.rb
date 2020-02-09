@@ -3,7 +3,7 @@
 def fizzbuzz(int)
   num = int % 3 == 0
   puts num
-  if int / 3 == 9
+  if int % 3 == 9
     return  "Fizz"
   end
 end
