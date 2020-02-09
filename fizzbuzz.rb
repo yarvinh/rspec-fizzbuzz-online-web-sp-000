@@ -8,10 +8,10 @@ def fizzbuzz(int)
   elsif int % 5 == 0
     puts "buzz"
     "Buzz"
-  elsif int % 3 &&  % 5== 0
+  elsif int % 3 &&  % 5 == 0
     puts "fizzbuzz"
     "FizzBuzz"
 
   end
 end
-fizzbuzz(5)
+fizzbuzz(15)
