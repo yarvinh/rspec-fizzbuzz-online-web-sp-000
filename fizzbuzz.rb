@@ -7,8 +7,9 @@ def fizzbuzz(int)
   elsif int % 5 == 0
     "Buzz"
   elsif int % 3 == 0 && int % 5 == 0
+    puts "fizzbuzz"
     "FizzBuzz"
 
   end
 end
-#fizzbuzz(3)
+fizzbuzz(3)
