@@ -3,8 +3,10 @@
 def fizzbuzz(int)
 
   if int % 3 == 0
+    puts "fizz"
     return  "Fizz"
   elsif int % 5 == 0
+    pust "buzz"
     "Buzz"
   elsif int % 3 == 0 || int % 5 == 0
     puts "fizzbuzz"
